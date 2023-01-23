@@ -62,3 +62,8 @@
 * Web Developer at Kaizen Young Consultants
 * Volunteer @Robin Hood Army
 * Connect on Linkedin https://www.linkedin.com/in/himanshuagnihotri/
+
+# JATIN KSHATRIYA 
+* SIH finalist from college 2022
+* Web Developer at Kaizen Young Consultants
+* Connect on Linkedin https://www.linkedin.com/in/jatin-kshatriya-a9a879214/
