@@ -33,3 +33,11 @@
 * Won gold medal in 200 meter individual medley
 * Gold in 50 meter freestyle RGPV nodal 
 * Connect on Linkedin https://www.linkedin.com/in/harshita-meena-64a275213/
+
+# SHARAD TRIPATHI
+
+* Andriod Developer
+* E-Cell Campus Ambassador at IIT Bombay
+* Working in Tuffle
+* Mentoring Students
+* Connect on Linkedin https://www.linkedin.com/in/sharadtripathi/
