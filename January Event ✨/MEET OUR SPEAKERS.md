@@ -10,7 +10,6 @@
 * Mentee at Girl Code it , Codess Cafe
 * Coordinator of Career Guidance Cell , Member of E-Cell S.A.T.I. , Dramatic Aaghaz , Innovative club F.L.U.X 
 * Mentored juniors in College
-* Learning Enjoying Exploring differnt Fields
 * Connect on Linkedin https://www.linkedin.com/in/anamika-jain1/
 
 # KRISHNA JHAPATE
@@ -20,3 +19,10 @@
 * AWS Explorer
 * Connect on Linkedin https://www.linkedin.com/in/krishna-jhapate/
 
+# SARTHAK GOUR
+
+* Co-Creating TapOnn
+* UI / UX Designer
+* Graphics Designer , Motion graphics artist
+* Video Editior Freelancer
+* Connect on Linkedin https://www.linkedin.com/in/sarthak-gour-abb576179/
