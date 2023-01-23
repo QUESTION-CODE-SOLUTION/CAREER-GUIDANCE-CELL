@@ -48,3 +48,10 @@
 * Content Creator
 * Mentoring many students
 * Connect on Linkedin https://www.linkedin.com/in/devanshdsoni/
+
+# PRASHANT PATEL
+
+* SIH finalist from college 2022
+* frontent Developer
+* Machine Learning Enthuist
+* Connect on Linkedin https://www.linkedin.com/in/prashant-patel-5495171a6/
