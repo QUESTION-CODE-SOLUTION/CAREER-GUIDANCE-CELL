@@ -56,3 +56,9 @@
 * frontent Developer
 * Machine Learning Enthuist
 * Connect on Linkedin https://www.linkedin.com/in/prashant-patel-5495171a6/
+
+# HIMANSHU AGNIHOTRI
+* SIH finalist from college 2022
+* Web Developer at Kaizen Young Consultants
+* Volunteer @Robin Hood Army
+* Connect on Linkedin https://www.linkedin.com/in/himanshuagnihotri/
