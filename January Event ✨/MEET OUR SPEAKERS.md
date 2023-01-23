@@ -26,3 +26,10 @@
 * Graphics Designer , Motion graphics artist
 * Video Editior Freelancer
 * Connect on Linkedin https://www.linkedin.com/in/sarthak-gour-abb576179/
+
+# HARSHITA MEENA
+
+* Swimming as a passion
+* Won gold medal in 200 meter individual medley
+* Gold in 50 meter freestyle RGPV nodal 
+* Connect on Linkedin https://www.linkedin.com/in/harshita-meena-64a275213/
