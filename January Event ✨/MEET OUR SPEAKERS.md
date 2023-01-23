@@ -8,7 +8,7 @@
 * Among top 200 candidates in GOOGLE WE 2021
 * Virtual GHC Scholar 2021
 * Mentee at Girl Code it , Codess Cafe
-* Coordinator of Career Guidance Cell , Member of E-Cell S.A.T.I. , Dramatic Aaghaz , Innovative club F.L.U.X 
+* Coordinator of Career Guidance Cell/ TnP Cell
 * Mentored juniors in College
 * Connect on Linkedin https://www.linkedin.com/in/anamika-jain1/
 
@@ -41,6 +41,7 @@
 * Working in Tuffle
 * Mentoring Students
 * Connect on Linkedin https://www.linkedin.com/in/sharadtripathi/
+
 
 # DEVANSH SONI
 
