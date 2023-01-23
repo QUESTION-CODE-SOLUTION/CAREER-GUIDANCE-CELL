@@ -11,3 +11,12 @@
 * Coordinator of Career Guidance Cell , Member of E-Cell S.A.T.I. , Dramatic Aaghaz , Innovative club F.L.U.X 
 * Mentored juniors in College
 * Learning Enjoying Exploring differnt Fields
+* Connect on Linkedin https://www.linkedin.com/in/anamika-jain1/
+
+# KRISHNA JHAPATE
+
+* Freelance Web Developer
+* Full Stack | React | NextJs | Rest APIs | Django
+* AWS Explorer
+* Connect on Linkedin https://www.linkedin.com/in/krishna-jhapate/
+
