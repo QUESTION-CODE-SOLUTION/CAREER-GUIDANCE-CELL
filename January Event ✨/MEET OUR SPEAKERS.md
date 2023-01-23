@@ -41,3 +41,10 @@
 * Working in Tuffle
 * Mentoring Students
 * Connect on Linkedin https://www.linkedin.com/in/sharadtripathi/
+
+# DEVANSH SONI
+
+* MERN Stack Web Developer @Tuffle
+* Content Creator
+* Mentoring many students
+* Connect on Linkedin https://www.linkedin.com/in/devanshdsoni/
