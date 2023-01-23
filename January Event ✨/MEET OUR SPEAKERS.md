@@ -52,10 +52,7 @@
 
 # PRASHANT PATEL
 
-* SIH finalist from college 2022
-* frontent Developer
-* Machine Learning Enthuist
-* Connect on Linkedin https://www.linkedin.com/in/prashant-patel-5495171a6/
+* SIH finalist from college 2022 1a6/
 
 # HIMANSHU AGNIHOTRI
 * SIH finalist from college 2022
@@ -67,3 +64,15 @@
 * SIH finalist from college 2022
 * Web Developer at Kaizen Young Consultants
 * Connect on Linkedin https://www.linkedin.com/in/jatin-kshatriya-a9a879214/
+
+# ANEKANT JAIN
+* Jr. Executive at OLL.co
+* MERN Stack Web and App Developer
+* Connect on Linkedin https://www.linkedin.com/in/anekantjain1811/
+
+# NAMAN NAMDEV
+*  Android App Developer at National Informatics Center , Government of India
+*  Got recognized as a Young App Developer from Collector of his city.
+*  Connect on Linkedin https://www.linkedin.com/in/naman-namdev-a118a1202/ 
+*  
+*  
